@@ -1,6 +1,6 @@
 ## Conky by jodarove
 Configuración del archivo conky para mostrar información en tu escritorio.
-<img src='./src/images/desktop-conky-by-jdromero88.jpg' alt="conky-by-jdromero88" width="946px" />
+<img src='./images/desktop-conky-by-jdromero88.jpg' alt="conky-by-jdromero88" width="946px" />
 
 ### Configuracion para usar conky con 2 monitores
 - Si tenes solo un monitor y no te funciona podes borrar la linea # 2
